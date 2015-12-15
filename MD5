@@ -1,0 +1,12 @@
+5bfaefba1360df306142af8129391cf8 *DESCRIPTION
+a592881dc6b361c7661bd29ae9de1978 *LICENSE
+b222e2da2ff8a653a71df1deddb81058 *NAMESPACE
+ce59eca825027f6f94587ebbaa301a05 *R/autoload.R
+b101ed92dc3dff4c749e5a1a778b7480 *R/needs-package.R
+2041859451416e1ca4f84adba4f4aa7f *R/needs.R
+1118ae8ee5b7eaa44328b1e9a7e3d70f *R/template.R
+b2c412d1fdcf74342168f0da19f1c2e8 *R/toProfile.R
+897316929176464ebc9ad085f31e7284 *inst/extdata/promptUser
+3425c7b72528c75d3970c67c76d88651 *man/needs-package.Rd
+6e6aef4c8dae9dccf7ef93a818f9570f *man/needs.Rd
+1c921d986a264822c7c103acad021cb6 *man/toProfile.Rd
